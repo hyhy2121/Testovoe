@@ -8,6 +8,7 @@ body {
     background-image: url(img/bg_body.png);
     width: 100%;
     background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 
@@ -23,7 +24,10 @@ u {
     text-transform: uppercase;
 }
 
-
+header {
+    position: sticky;
+    top: 0;
+}
 
 .wrapper_container {
     max-width: 1170px;
