@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/bg_body.png);
+    background-image: url(img/bg_body.png);
     width: 100%;
     background-repeat: no-repeat;
 }
@@ -155,7 +155,7 @@ u {
 }
 
 .container_main {
-    background-image: url(/img/bg_main.png);
+    background-image: url(img/bg_main.png);
 }
 
 .wrapper_container {}
@@ -216,7 +216,7 @@ u {
 
 .cartd::before {
 
-    content: url(/img/svg/ellipse.svg);
+    content: url(img/svg/ellipse.svg);
     position: absolute;
     top: 28%;
     left: 92%;
@@ -462,7 +462,7 @@ u {
 }
 
 .button_file_item::before {
-    content: url(/img/svg/button_file.svg);
+    content: url(img/svg/button_file.svg);
     position: absolute;
     top: 30%;
     left: 25%;
